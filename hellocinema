@@ -1,6 +1,7 @@
 include <iostream>
 
 int main() {
-    std:cout << "Hello Cinema!";
+    std:cout << "Hello Cinema - Fijis Number 1!";
     return 0;
 }
+
